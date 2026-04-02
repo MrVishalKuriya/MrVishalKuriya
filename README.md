@@ -1,180 +1,129 @@
-Here’s a **high-impact `README.md` (main.md) file** for your GitHub profile that showcases your best projects with clean structure, visuals, and professional positioning.
+<h1 align="center">Hi 👋, I'm Kuriya Vishal</h1>
+<h3 align="center">🚀 Full Stack Developer | AI Enthusiast | System Builder</h3>
 
-You can copy-paste this directly into your **GitHub profile README** (`README.md` in root repo with your username).
-
----
-
-# 🚀 Kuriya Vishal | Full Stack Developer
-
-<img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&size=28&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;AI+Enthusiast;System+Architect;Building+Real+World+Projects" />
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&size=25&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;AI+Project+Builder;Startup+Mindset;Always+Learning+New+Tech" />
+</p>
 
 ---
 
-## 🧠 About Me
-
-💡 Passionate **Full Stack Developer** & BCA Student
-🚀 Building real-world applications, AI systems, and scalable platforms
-⚡ Focused on **performance, UI/UX, and system architecture**
-
----
-
-## 🛠️ Tech Stack
-
-```bash
-💻 Languages: JavaScript | Python | PHP | SQL  
-🌐 Frontend: HTML | CSS | Tailwind | Bootstrap | React  
-🔧 Backend: Node.js | Flask | PHP  
-🗄️ Database: MongoDB | Firebase | MySQL  
-⚙️ Tools: Git | GitHub | Vercel | Termux | Selenium  
-🤖 AI: NLP | Text-to-Speech | Automation  
-```
+## 👨‍💻 About Me
+- 🎓 BCA Student (NEP Program)
+- 🚀 Building real-world projects (Web + AI + Systems)
+- 🧠 Interested in AI, Automation & System Design
+- 💼 Working on startup projects (Vedanco IT Solution)
+- ⚡ Goal: Become a High-Level Software Engineer
 
 ---
 
-# 🔥 Featured Projects
+## 🔭 Current Work
+- 🔹 Building **AI Assistant (Jarvis)**
+- 🔹 Developing **Business Web Ecosystem**
+- 🔹 Creating **Advanced Portfolio with GSAP**
 
 ---
 
-## 🏢 Vedanco IT Solution (Company Ecosystem)
+## 🌱 Currently Learning
+- ⚡ Advanced JavaScript
+- ⚡ Backend Architecture
+- ⚡ AI Integration in Web Apps
 
-🔗 [https://vedanco.com](https://vedanco.com)
+---
 
-🚀 Multi-website ecosystem for business operations
+## 💬 Ask Me About
+- Web Development 🌐  
+- AI Projects 🤖  
+- GitHub & Deployment 🚀  
+- System Design ⚙️  
 
-### ⚡ Features:
+---
 
-* 🌐 Multiple deployed websites (Marketing, Skills, Official)
-* ⚙️ Scalable architecture
-* 🎯 Real-world business usage
+## 🌐 Connect with Me
+<p align="left">
+<a href="https://github.com/MrVishalKuriya" target="blank">
+<img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg" alt="github" height="30" width="40" />
+</a>
+</p>
+
+---
+
+## 🛠️ Languages and Tools
+
+<p align="left"> 
+<img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,bootstrap,php,python,mysql,mongodb,firebase,git" />
+</p>
+
+---
+
+# 🚀 Featured Projects
+
+## 🏢 Vedanco IT Solution
+- 🌐 Multi-website business ecosystem
+- ⚡ Live deployed projects
+- 🔗 https://vedanco.com
 
 ---
 
 ## 🏠 PG Management System
-
-💻 Tech: PHP, Bootstrap, MySQL
-
-📊 Complete admin + user management system
-
-### ⚡ Features:
-
-* 🧾 Rent & meal tracking
-* 🏢 Room allocation
-* 📩 Complaint system
-* 🔐 Secure authentication
+- 🧾 Rent & meal tracking system
+- 🔐 Secure login system
+- 💻 PHP + MySQL
 
 ---
 
 ## 🤖 AI Voice Assistant (Jarvis)
-
-💻 Tech: Python, Selenium, pyttsx3
-
-🧠 Smart AI assistant with voice interaction
-
-### ⚡ Features:
-
-* 🎤 Voice commands
-* 🔊 Text-to-speech
-* ⚡ Automation system
+- 🎤 Voice command system
+- 🔊 Text-to-speech AI
+- ⚡ Python automation
 
 ---
 
-## 💬 WhatsApp Clone Web App
-
-💻 Tech: Python, Tailwind CSS
-
-📱 Real-time chat UI system
-
-### ⚡ Features:
-
-* 💬 Messaging interface
-* 🎨 Clean responsive UI
-* ⚡ Fast performance
+## 💬 WhatsApp Clone
+- 💬 Chat UI system
+- ⚡ Responsive design
+- 🎨 Tailwind CSS
 
 ---
 
-## 🛒 Super Mall Web App
-
-💻 Tech: HTML, CSS, JS, Firebase
-
-🏬 Digital mall management system
-
-### ⚡ Features:
-
-* 🛍️ Shop & product management
-* 📍 Location system
-* 🎯 Offer handling
+## 🛒 Super Mall App
+- 🏬 Shop & product management
+- 📍 Location-based system
+- 🔥 Firebase backend
 
 ---
 
 ## 🎮 3D Game (Three.js)
-
-💻 Tech: Three.js
-
-🎯 Interactive browser-based 3D game
-
-### ⚡ Features:
-
-* 🎮 Player controls
-* ❤️ Health system
-* 🔄 360° environment
+- 🎮 Interactive controls
+- ❤️ Health system
+- 🔄 360° environment
 
 ---
 
-## 🌐 Advanced Portfolio Website
+## 📊 GitHub Stats
 
-💻 Tech: HTML, CSS, JS, GSAP
-
-🔥 High-performance animated portfolio
-
-### ⚡ Features:
-
-* ✨ GSAP animations
-* 🌙 Dark/Light mode
-* 📱 Fully responsive
-
----
-
-# 📊 GitHub Stats
-
+<p align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=MrVishalKuriya&show_icons=true&theme=tokyonight" />
+</p>
 
+<p align="center">
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=MrVishalKuriya&theme=tokyonight" />
+</p>
 
 ---
 
-# 🏆 Achievements
-
-* 🚀 Built 5+ real-world deployed projects
-* 🧠 Developed AI-based systems
-* 👨‍💻 Hackathon Team Leader
-* 💼 Created business-ready applications
-
----
-
-# 📬 Contact Me
-
-📧 [your-email@example.com](mailto:your-email@example.com)
-🌐 [https://github.com/MrVishalKuriya](https://github.com/MrVishalKuriya)
+## 🏆 Achievements
+- 🚀 5+ Live Projects Deployed  
+- 🧠 AI-Based Systems Built  
+- 👨‍💻 Hackathon Team Leader  
+- 💼 Real-World Business Apps  
 
 ---
 
-# ⚡ Quote
-
-> "Code. Build. Scale. Repeat."
-
----
-
-# 🔥 PRO TIP (IMPORTANT)
-
-To make this README **next-level**:
-
-* Add **project screenshots (images folder)**
-* Add **live demo links**
-* Use **badges (shields.io)**
-* Pin top 6 repositories on GitHub
+## ⚡ Fun Fact
+💡 I don’t just code — I build complete systems.
 
 ---
 
-If you want next level upgrade, tell me:
-👉 **"Add animations + badges + premium UI"**
-I’ll make it 🔥 like top GitHub profiles.
+<p align="center">
+🔥 "Code. Build. Scale. Repeat."
+</p>
