@@ -1,171 +1,97 @@
-<h1 align="center">Hi 👋, I'm Kuriya Vishal</h1>
-<h3 align="center">🚀 Full Stack Developer | AI Builder | System Architect</h3>
+<h1 align="center">Kuriya Vishal</h1>
+<p align="center">Full Stack Developer | AI Systems Builder</p>
+
+---
+
+## About
+I am a Bachelor of Computer Applications (BCA) student focused on building real-world software systems. My work spans full stack web development, AI-based automation tools, and scalable application design. I prioritize clean architecture, performance, and practical problem-solving.
+
+---
+
+## Current Focus
+- Developing AI-based assistant systems with automation capabilities  
+- Building scalable business web platforms  
+- Improving backend architecture and system design skills  
+
+---
+
+## Technical Skills
+
+### Languages
+JavaScript, Python, PHP, SQL  
+
+### Frontend
+HTML, CSS, Tailwind CSS, Bootstrap, React (basic)  
+
+### Backend
+Node.js (basic), Flask, Core PHP  
+
+### Databases
+MySQL, MongoDB, Firebase  
+
+### Tools
+Git, GitHub, Vercel, Linux, Selenium  
+
+---
+
+## Selected Projects
+
+### Vedanco IT Solution (Business Web Ecosystem)
+- Designed and deployed multiple production-grade websites  
+- Implemented scalable structure for business operations  
+- Focused on performance and maintainability  
+
+### PG Management System
+- Built a complete management platform for rental operations  
+- Features include rent tracking, meal management, and complaint handling  
+- Implemented secure authentication and structured database design  
+
+### AI Voice Assistant (Jarvis)
+- Developed a voice-controlled assistant using Python  
+- Integrated text-to-speech and browser automation  
+- Designed for task execution and workflow automation  
+
+### WhatsApp Clone (Web Application)
+- Created a responsive chat interface  
+- Focused on user experience and clean UI structure  
+- Implemented modular frontend architecture  
+
+### Super Mall Web Application
+- Developed a platform for managing shops, offers, and locations  
+- Integrated Firebase for real-time data handling  
+- Structured for scalability and usability  
+
+### 3D Game (Three.js)
+- Built an interactive browser-based 3D environment  
+- Implemented player controls and basic game mechanics  
+- Focused on rendering performance and interaction design  
+
+---
+
+## GitHub Statistics
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&size=28&center=true&vCenter=true&width=700&lines=Full+Stack+Developer;AI+Automation+Expert;Building+Real+World+Systems;Startup+Mindset+Developer" />
-</p>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=MrVishalKuriya&label=Profile%20views&color=0e75b6&style=flat" />
-  <img src="https://img.shields.io/github/followers/MrVishalKuriya?label=Followers&style=social" />
-  <img src="https://img.shields.io/github/stars/MrVishalKuriya?label=Stars&style=social" />
-</p>
-
----
-
-# 🧠 About Me
-- 🎓 BCA Student (NEP Program)
-- 🚀 Building **real-world scalable systems**
-- 🤖 Passionate about **AI + Automation**
-- 💼 Founder Projects: Vedanco IT Solution
-- ⚡ Focus: Performance, UI/UX, System Design
-
----
-
-# 🔭 Current Focus
-- 🤖 AI Assistant (Jarvis Advanced)
-- 🌐 Business Ecosystem Platforms
-- 🎨 Premium Portfolio with GSAP
-
----
-
-# 🌱 Learning Stack
-- ⚡ Advanced Backend Architecture  
-- ⚡ AI + Web Integration  
-- ⚡ Scalable System Design  
-
----
-
-# 💬 Ask Me About
-💻 Web Dev | 🤖 AI Projects | ⚙️ System Design | 🚀 Deployment
-
----
-
-# 🌐 Connect With Me
-<p align="center">
-<a href="https://github.com/MrVishalKuriya">
-<img src="https://skillicons.dev/icons?i=github" height="40"/>
-</a>
-</p>
-
----
-
-# 🛠️ Tech Stack
-
-## 🚀 Core
-<p>
-<img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,bootstrap" />
-</p>
-
-## ⚙️ Backend
-<p>
-<img src="https://skillicons.dev/icons?i=php,python,nodejs" />
-</p>
-
-## 🗄️ Database
-<p>
-<img src="https://skillicons.dev/icons?i=mysql,mongodb,firebase" />
-</p>
-
-## 🧰 Tools
-<p>
-<img src="https://skillicons.dev/icons?i=git,github,vercel,linux" />
-</p>
-
----
-
-# 🚀 Featured Projects
-
-## 🏢 Vedanco IT Solution
-🚀 Multi-website business ecosystem  
-🔗 https://vedanco.com  
-
-✔️ Scalable architecture  
-✔️ Multiple deployments  
-✔️ Real-world business usage  
-
----
-
-## 🏠 PG Management System
-💻 PHP + MySQL  
-
-✔️ Rent & meal tracking  
-✔️ Admin dashboard  
-✔️ Complaint system  
-
----
-
-## 🤖 AI Voice Assistant (Jarvis)
-💻 Python + Automation  
-
-✔️ Voice commands  
-✔️ Text-to-speech  
-✔️ Smart automation  
-
----
-
-## 💬 WhatsApp Clone
-💻 Python + Tailwind  
-
-✔️ Chat UI  
-✔️ Responsive design  
-✔️ Clean UX  
-
----
-
-## 🛒 Super Mall App
-💻 Firebase  
-
-✔️ Shop management  
-✔️ Offer system  
-✔️ Location features  
-
----
-
-## 🎮 3D Game (Three.js)
-✔️ Player controls  
-✔️ Health system  
-✔️ Interactive world  
-
----
-
-# 📊 GitHub Analytics
-
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=MrVishalKuriya&show_icons=true&theme=tokyonight&hide_border=true" />
+<img src="https://github-readme-stats.vercel.app/api?username=MrVishalKuriya&show_icons=true&hide_border=true" />
 </p>
 
 <p align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=MrVishalKuriya&theme=tokyonight&hide_border=true" />
-</p>
-
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MrVishalKuriya&layout=compact&theme=tokyonight&hide_border=true" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=MrVishalKuriya&hide_border=true" />
 </p>
 
 ---
 
-# 🏆 Achievements
-🏆 5+ Live Projects  
-🤖 AI Systems Developed  
-👨‍💻 Hackathon Leader  
-💼 Business Applications Built  
+## Achievements
+- Developed and deployed multiple real-world applications  
+- Built AI-based automation systems  
+- Led a hackathon development team  
+- Delivered business-oriented software solutions  
 
 ---
 
-# 🔥 Activity Graph
-<p align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=MrVishalKuriya&theme=tokyo-night" />
-</p>
+## Contact
+GitHub: https://github.com/MrVishalKuriya  
 
 ---
 
-# 🧩 Fun Fact
-💡 I don’t just build projects — I build **systems that solve real problems**
-
----
-
-# ⚡ Quote
-<p align="center">
-🚀 "Code. Build. Scale. Repeat."
-</p>
+## Statement
+Focused on building reliable systems with real-world impact through consistent learning and execution.
